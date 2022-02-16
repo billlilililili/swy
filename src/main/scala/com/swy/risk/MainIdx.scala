@@ -3,6 +3,7 @@ package com.swy.risk
 import com.swy.risk.idx.Demo
 import com.swy.risk.common.ModelMap
 
+//主程序
 object MainIdx {
 
   def main(args: Array[String]): Unit = {
